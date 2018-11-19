@@ -1,5 +1,5 @@
 // AUTO SAFELINK FOR WWW.IDBLANTER.COM SAFELINK.BLANTER.NET
-var blog_url="https://operator-sekolahku.blogspot.com/"; // Homepage Blog Safelink
+var blog_url="https://linkamankok.blogspot.com/"; // Homepage Blog Safelink
 var article1="2018/11/lucid-dreaming.html"; // Article 1
 var article2="2018/11/link-aman.htmll"; // Article 2
 var article3="2018/11/material-design.html"; // Article 3
